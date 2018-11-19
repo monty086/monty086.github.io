@@ -1,6 +1,6 @@
 # Site settings
-title: 长白小蒙
-SEOTitle: 长白小蒙的博客 | 长白小蒙
+title: Monty Yuan
+SEOTitle: 长白小蒙的博客 | Blog
 header-img: img/post-bg-desk.jpg
 email: montyyuan086@gmail.com
 description: "每个胜利的背后都有许多尝试"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/monty086/monty086.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: ./img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
