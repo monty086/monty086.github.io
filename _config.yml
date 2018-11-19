@@ -12,7 +12,7 @@ github_repo: "https://github.com/monty086/monty086.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "我想先说点什么!"
-sidebar-avatar: /img/avatar-m.JPG     # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-by.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
