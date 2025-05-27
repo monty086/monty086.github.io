@@ -24,19 +24,19 @@ export default defineConfig({
       },
     ],
     // 百度统计
-    [
-      "script",
-      {},
-      `
-        var _hmt = _hmt || [];
-        (function() {
-          var hm = document.createElement("script");
-          hm.src = "https://hm.baidu.com/hm.js?2675818a983a3131404cee835018f016";
-          var s = document.getElementsByTagName("script")[0]; 
-          s.parentNode.insertBefore(hm, s);
-        })();
-      `,
-    ],
+    // [
+    //   "script",
+    //   {},
+    //   `
+    //     var _hmt = _hmt || [];
+    //     (function() {
+    //       var hm = document.createElement("script");
+    //       hm.src = "https://hm.baidu.com/hm.js?2675818a983a3131404cee835018f016";
+    //       var s = document.getElementsByTagName("script")[0];
+    //       s.parentNode.insertBefore(hm, s);
+    //     })();
+    //   `,
+    // ],
   ],
   permalink: "/:slug",
 
@@ -121,8 +121,8 @@ export default defineConfig({
     lastUpdated: "最近更新",
 
     // GitHub 仓库位置
-    repo: "liyupi/codefather",
-    docsBranch: "master",
+    // repo: "liyupi/codefather",
+    docsBranch: "base",
 
     // 编辑链接
     editLinks: true,
